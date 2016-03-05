@@ -2,10 +2,6 @@
 
 #include <vector>
 #include "ofMain.h"
-#include "ofxRSSDKv2.h"
-
-using namespace std;
-using namespace ofxRSSDK;
 
 class ofApp : public ofBaseApp{
 
@@ -26,10 +22,11 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
-	
+    
+        
     private:
         void setupCamera();
-        RSDevicePtr mRSSDK;
         ofMesh			mCloudMesh;
         ofEasyCam		mCamera;
+    
 };

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DB8E7020C579E3B997601DB6A05891FB77211425",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DB8E7020C579E3B997601DB6A05891FB77211425" : 0,
+    "2CFDF32C07E6C0A196D7F5C9A927C57CFF7F4D2F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1ABDAC4B-C0D7-43E8-B9C5-D6EB2D696A88",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DB8E7020C579E3B997601DB6A05891FB77211425" : "RealsenseOFPointCloud\/",
+    "2CFDF32C07E6C0A196D7F5C9A927C57CFF7F4D2F" : "..\/..\/..\/..\/..\/Sites\/librealsense"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RealsenseOFPointCloud",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RealsenseOFPointCloud.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IntelRealSense\/librealsense.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CFDF32C07E6C0A196D7F5C9A927C57CFF7F4D2F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robksawyer\/RealsenseOFPointcloud.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DB8E7020C579E3B997601DB6A05891FB77211425"
+    }
+  ]
+}
